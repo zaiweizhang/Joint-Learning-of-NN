@@ -1,6 +1,8 @@
 # Joint-Learning-of-NN
 
-![alt tag](images/teaser1.png)
+Results on Generative Model|  Data Social Network
+:-------------------------:|:-------------------------:
+![](images/teaser1.png)  |  ![](images/teaser2.png)
 
 ## Requirements
 
