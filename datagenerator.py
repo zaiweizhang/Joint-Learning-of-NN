@@ -3,6 +3,7 @@
 # @author: Frederik Kratzert
 
 """Containes a helper class for image input pipelines in tensorflow."""
+### Borrowed from the repo: https://github.com/kratzert/finetune_alexnet_with_tensorflow
 
 import tensorflow as tf
 import numpy as np
