@@ -1,4 +1,5 @@
 # Joint-Learning-of-NN
+The full paper can be found in here: https://arxiv.org/abs/1905.06526
 
 Results on Generative Model|  Data Social Network
 :-------------------------:|:-------------------------:
