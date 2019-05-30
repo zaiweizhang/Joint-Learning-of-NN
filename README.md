@@ -10,7 +10,7 @@ Results on Generative Model|  Data Social Network
 - Python 2.7
 - TensorFlow >= 1.2rc0
 - Numpy
-- Tensorflow slim library [https://github.com/tensorflow/models/tree/master/research/slim] (for inception v3 architecture, you can use custom built network architecture if you have one)
+- Tensorflow slim library [https://github.com/tensorflow/models/tree/master/research/slim] (for inception v3 architecture, you can use custom built network architecture if you have one. Since the five datasets shown in the paper have different number of classes, I added 4 more last layers for inception v3. Please make changes based on your need.)
 
 ## Content
 
